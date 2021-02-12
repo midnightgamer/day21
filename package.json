@@ -1,0 +1,17 @@
+{
+  "name": "day20",
+  "version": "1.0.0",
+  "description": "",
+  "main": "script.js",
+  "scripts": {
+    "start": "parcel index.html"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "gsap": "^3.6.0",
+    "node-sass": "^5.0.0",
+    "parcel-bundler": "^1.12.4"
+  }
+}
